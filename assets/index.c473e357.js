@@ -1,0 +1,1 @@
+import{_ as e}from"./index.a14a9651.js";import{r as t}from"./plugin-vue_export-helper.f9bfd808.js";const _=t("Geolocation",{web:()=>e(()=>import("./web.d2bd446b.js"),["assets/web.d2bd446b.js","assets/plugin-vue_export-helper.f9bfd808.js"]).then(o=>new o.GeolocationWeb)});export{_ as G};
